@@ -153,8 +153,6 @@
 								<array/>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -537,8 +535,8 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>3.0429840087890625</real>
-											<real>9.38671875</real>
+											<real>-2.02734375</real>
+											<real>8.5195388793945312</real>
 										</array>
 										<array>
 											<real>-1.7851409912109375</real>
@@ -557,16 +555,16 @@
 											<real>34.24609375</real>
 										</array>
 										<array>
-											<real>211.06643676757812</real>
-											<real>17.285171508789062</real>
+											<real>217.06253051757812</real>
+											<real>9.6015701293945312</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>211.06643676757812</real>
-												<real>17.285171508789062</real>
+												<real>217.06253051757812</real>
+												<real>9.6015701293945312</real>
 											</array>
 											<array>
 												<real>216.19143676757812</real>
@@ -585,8 +583,8 @@
 												<real>42.0546875</real>
 											</array>
 											<array>
-												<real>3.0429840087890625</real>
-												<real>9.38671875</real>
+												<real>-2.02734375</real>
+												<real>8.5195388793945312</real>
 											</array>
 										</array>
 									</array>
@@ -683,6 +681,8 @@
 										<array/>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
