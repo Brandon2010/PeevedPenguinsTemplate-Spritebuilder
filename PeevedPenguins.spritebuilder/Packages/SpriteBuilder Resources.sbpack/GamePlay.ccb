@@ -241,7 +241,7 @@
 								<key>physicsBody</key>
 								<dict>
 									<key>affectedByGravity</key>
-									<false/>
+									<true/>
 									<key>allowsRotation</key>
 									<true/>
 									<key>bodyShape</key>
@@ -416,7 +416,7 @@
 								<key>physicsBody</key>
 								<dict>
 									<key>affectedByGravity</key>
-									<false/>
+									<true/>
 									<key>allowsRotation</key>
 									<true/>
 									<key>bodyShape</key>
@@ -440,8 +440,8 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>14.464874267578125</real>
-											<real>13.1328125</real>
+											<real>3.0429840087890625</real>
+											<real>9.38671875</real>
 										</array>
 										<array>
 											<real>-1.7851409912109375</real>
@@ -488,8 +488,8 @@
 												<real>42.0546875</real>
 											</array>
 											<array>
-												<real>14.464874267578125</real>
-												<real>13.1328125</real>
+												<real>3.0429840087890625</real>
+												<real>9.38671875</real>
 											</array>
 										</array>
 									</array>
