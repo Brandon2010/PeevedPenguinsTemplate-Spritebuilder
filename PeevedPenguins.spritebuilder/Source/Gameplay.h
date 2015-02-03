@@ -10,6 +10,6 @@
 
 @interface Gameplay : CCNode <CCPhysicsCollisionDelegate>
 
-- (void)sealRemoved:(CCNode *)seal
+- (void)sealRemoved:(CCNode *)seal;
 
 @end
