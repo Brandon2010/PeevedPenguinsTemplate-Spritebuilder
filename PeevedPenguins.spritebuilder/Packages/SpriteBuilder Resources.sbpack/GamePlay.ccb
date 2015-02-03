@@ -56,7 +56,7 @@
 					<key>value</key>
 					<array>
 						<real>237.86721801757812</real>
-						<real>103.87109375</real>
+						<real>83.87109375</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -165,7 +165,7 @@
 					<key>value</key>
 					<array>
 						<real>243.24221801757812</real>
-						<real>290.50399780273438</real>
+						<real>270.50399780273438</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -203,7 +203,7 @@
 					<key>value</key>
 					<array>
 						<real>-7.757781982421875</real>
-						<real>-9.4960002899169922</real>
+						<real>-29.496000289916992</real>
 					</array>
 				</dict>
 				<dict>
@@ -246,7 +246,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>30</real>
+						<real>50</real>
 						<true/>
 					</array>
 				</dict>
@@ -267,6 +267,8 @@
 					<real>500</real>
 				</dict>
 			</array>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -768,7 +770,7 @@
 										<key>value</key>
 										<array>
 											<real>251</real>
-											<real>185</real>
+											<real>165</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1282,8 +1284,6 @@
 										<array/>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
