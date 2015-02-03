@@ -267,8 +267,6 @@
 					<real>1500</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -343,8 +341,8 @@
 								<string>ScaleLock</string>
 								<key>value</key>
 								<array>
-									<real>1</real>
-									<real>1</real>
+									<real>1.9996500015258789</real>
+									<real>2.0029029846191406</real>
 									<false/>
 									<integer>0</integer>
 								</array>
