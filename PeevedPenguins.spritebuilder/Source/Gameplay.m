@@ -81,7 +81,7 @@ static const float MIN_SPEED = 5.f;
 }
 
 
--(void) touchEnded:(CCTouch *)touch withEvent:(CCTouchEvent *)event
+-(void) touchEnded:(UITouch *)touch withEvent:(UIEvent *)event
 {
     // when touches end, meaning the user releases their finger, release the catapult
     [self releaseCatapult];
