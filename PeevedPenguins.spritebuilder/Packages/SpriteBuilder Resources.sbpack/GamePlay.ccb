@@ -453,8 +453,6 @@
 								<string>Bear.ccb</string>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -1158,12 +1156,12 @@
 											<real>0.0</real>
 										</array>
 										<array>
-											<real>-0.17967987060546875</real>
-											<real>48.49609375</real>
+											<real>0.52344512939453125</real>
+											<real>40.160163879394531</real>
 										</array>
 										<array>
-											<real>958.8515625</real>
-											<real>46.859375</real>
+											<real>960.40240478515625</real>
+											<real>38.023445129394531</real>
 										</array>
 										<array>
 											<real>960</real>
@@ -1178,12 +1176,12 @@
 												<real>0.0</real>
 											</array>
 											<array>
-												<real>958.8515625</real>
-												<real>46.859375</real>
+												<real>960.40240478515625</real>
+												<real>38.023445129394531</real>
 											</array>
 											<array>
-												<real>-0.17967987060546875</real>
-												<real>48.49609375</real>
+												<real>0.52344512939453125</real>
+												<real>40.160163879394531</real>
 											</array>
 											<array>
 												<real>0.0</real>
@@ -1284,6 +1282,8 @@
 										<array/>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
