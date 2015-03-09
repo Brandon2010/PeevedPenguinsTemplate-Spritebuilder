@@ -1200,8 +1200,6 @@
 						<array/>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1649,7 +1647,7 @@
 					<key>elasticity</key>
 					<real>0.30000001192092896</real>
 					<key>friction</key>
-					<real>0.30000001192092896</real>
+					<real>0.89999997615814209</real>
 					<key>points</key>
 					<array>
 						<array>
@@ -1659,6 +1657,10 @@
 						<array>
 							<real>0.0</real>
 							<real>47</real>
+						</array>
+						<array>
+							<real>11.640625</real>
+							<real>51.347671508789062</real>
 						</array>
 						<array>
 							<real>23</real>
@@ -1679,6 +1681,10 @@
 							<array>
 								<real>23</real>
 								<real>47</real>
+							</array>
+							<array>
+								<real>11.640625</real>
+								<real>51.347671508789062</real>
 							</array>
 							<array>
 								<real>0.0</real>
@@ -1783,6 +1789,8 @@
 						<array/>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1822,7 +1830,7 @@
 					<key>elasticity</key>
 					<real>0.30000001192092896</real>
 					<key>friction</key>
-					<real>0.30000001192092896</real>
+					<real>0.89999997615814209</real>
 					<key>points</key>
 					<array>
 						<array>
@@ -1995,7 +2003,7 @@
 					<key>elasticity</key>
 					<real>0.30000001192092896</real>
 					<key>friction</key>
-					<real>0.30000001192092896</real>
+					<real>0.89999997615814209</real>
 					<key>points</key>
 					<array>
 						<array>
@@ -2168,7 +2176,7 @@
 					<key>elasticity</key>
 					<real>0.30000001192092896</real>
 					<key>friction</key>
-					<real>0.30000001192092896</real>
+					<real>0.89999997615814209</real>
 					<key>points</key>
 					<array>
 						<array>
@@ -2341,7 +2349,7 @@
 					<key>elasticity</key>
 					<real>0.30000001192092896</real>
 					<key>friction</key>
-					<real>0.30000001192092896</real>
+					<real>0.89999997615814209</real>
 					<key>points</key>
 					<array>
 						<array>
